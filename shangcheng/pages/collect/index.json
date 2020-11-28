@@ -1,0 +1,4 @@
+{
+    "usingComponents": { "Tabs": "../../components/Tabs/Tabs" },
+    "navigationBarTitleText": "梦欣的收藏页面"
+}
